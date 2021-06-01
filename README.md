@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel!</h1>
-<h3 align="center">A full-stack software engineer from Wilmington, NC.</h3>
-
-- 🔭 I’m currently working on [funki](https://github.com/dbmille2/funki)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 Check out my portfolio at [https://dbmiller.io](https://dbmiller.io)
-
-- 📫 Send me an email at [dbmiller25@gmail.com](mailto:dbmiller25@gmail.com)
+<h3 align="center">Full-stack software engineer from Wilmington, NC.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
